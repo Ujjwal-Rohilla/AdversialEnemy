@@ -1,6 +1,12 @@
 # Adversial Enemy in Games
 Little self-learning project for Adversial AI Agents in games and stuff, like Tic Tac Toe and Connect 4
 
+
+## To Download
+1. If you want to try the Tic tac toe, just download the .exe file from Release
+2. If you want to try the Connect 4, then download the files within the `Connect 4` folder, and run `pip install -r requirements.txt` from the same folder.
+
+
 ## Games
 ### Tic Tac Toe
 Well known "X-O" game, get three X or O in a row in a 3x3 grid and you win. I thought this would be perfect to learn how algorthims like min-maxing would work. Tic Tac Toe is considered a "zero sum game", because, against two players, only one wins, and other loses. The win of Player 1 is equivalent to the loss of player 2
